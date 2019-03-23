@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Machine Learning Models for Predicting Fracture Strength of Porous Ceramics and Glasses"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-07-30-paper-number-1
+excerpt: 'The specific goal of this paper is to develop a machine learning model for the maximum geometric factor, which determines the maximum stress that a material can handle without any failure under uniaxial and biaxial tensile loads.'
+date: 2018-07-30
+venue: 'Las Vegas'
+paperurl: 'https://csce.ucmss.com/cr/books/2018/LFS/CSREA2018/ICD8046.pdf'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+One of the crucial factors that determine the quality of a material is its ability to withstand stress. Classical methods to analyze fracture stress take into account all possible combinations of effective factors and this makes the process extremely tedious and time-consuming. In this work, we propose to utilize machine learning in combination with training data generated using finite element method. The specific goal of this paper is to develop a model for the maximum geometric factor, which determines the maximum stress that a material can handle without any failure under uniaxial and biaxial tensile loads.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://csce.ucmss.com/cr/books/2018/LFS/CSREA2018/ICD8046.pdf)
+
