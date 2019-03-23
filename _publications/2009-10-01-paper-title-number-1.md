@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-07-30-paper-number-1
 excerpt: 'The specific goal of this paper is to develop a machine learning model for the maximum geometric factor, which determines the maximum stress that a material can handle without any failure under uniaxial and biaxial tensile loads.'
 date: 2018-07-30
-venue: 'Las Vegas'
+venue: 'ICDATA 2018 - Las Vegas'
 paperurl: 'https://csce.ucmss.com/cr/books/2018/LFS/CSREA2018/ICD8046.pdf'
 
 ---
